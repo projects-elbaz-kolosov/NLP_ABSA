@@ -65,7 +65,7 @@ def preprocessing_for_bert(data, max_len):
             add_special_tokens=True,
             max_length=max_len,
             pad_to_max_length=True,
-            # return_tensors='pt',
+            truncation=True,
             return_attention_mask=True
         )
         input_ids.append(encoded_sent.get('input_ids'))
