@@ -47,7 +47,7 @@ There are two steps which need to be performed during the training of our networ
     - Number of epochs : 3 (with early stopping)
 
 ### Results
-This approach gave an average accuracy of 85.69 (0.64) on the devdata.csv dataset (with 5 runs). 
+This approach gave an average accuracy of 86.23 (±0.52) on the devdata.csv dataset (with 5 runs). 
 
 ### Sources 
 Spring 2021 CentraleSupélec NLP Course
