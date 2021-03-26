@@ -49,15 +49,18 @@ There are two steps which need to be performed during the training of our networ
 ### Results
 This approach gave an average accuracy of 85.69 (0.64) on the devdata.csv dataset (with 5 runs). 
 
-###Sources 
+### Sources 
 Spring 2021 CentraleSupélec NLP Course
 
-In order to tackle this task, we documented ourselves on both BERT and the ABSA task, using the following articles and (Bert) tutorial : 
-
-BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. Jacob Devlin Ming-Wei Chang Kenton Lee Kristina Toutanova
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. Jacob Devlin Ming-Wei Chang Kenton Lee Kristina Toutanova, 2019
 
 BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis. Hu Xu, Bing Liu, Lei Shu and Philip S. Yu, 2019
 
-Aspect Sentiment Classification with both Word-level and Clause-level Attention Networks. Jingjing Wang, Jie Li, Shoushan Li, Yangyang Kang, Min Zhang, Luo Si, Guodong Zhou
+Aspect Sentiment Classification with both Word-level and Clause-level Attention Networks. Jingjing Wang, Jie Li, Shoushan Li, Yangyang Kang, Min Zhang, Luo Si, Guodong Zhou, 2018
 
 Fine Tuning Bert for sentiment Analysis : https://skimai.com/fine-tuning-bert-for-sentiment-analysis/
+
+### To run code : 
+First : `cd src` 
+
+Then : `python tester.py`
