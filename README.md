@@ -63,4 +63,8 @@ Fine Tuning Bert for sentiment Analysis : https://skimai.com/fine-tuning-bert-fo
 ### To run code : 
 First : `cd src` 
 
+<<<<<<< HEAD
 Then : `python tester.py`
+=======
+Then : `python tester.py`
+>>>>>>> 5052443a104ae0a8b31bd6984b29e18b129346ef
