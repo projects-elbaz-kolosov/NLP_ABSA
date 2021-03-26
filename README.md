@@ -49,7 +49,7 @@ There are two steps which need to be performed during the training of our networ
 ### Results
 This approach gave an average accuracy of 85.69 (0.64) on the devdata.csv dataset (with 5 runs). 
 
-###Sources 
+### Sources 
 Spring 2021 CentraleSupélec NLP Course
 
 In order to tackle this task, we documented ourselves on both BERT and the ABSA task, using the following articles and (Bert) tutorial : 
